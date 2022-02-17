@@ -1,7 +1,9 @@
 # Syntaxes and Operators
 Challenge proposed from the course "Syntaxes and Operators" - Banco Inter's Bootcamp
 
-## Atividade
+-----
+
+### Atividade
 
 - Crie uma função que recebe dois números como parâmetros.
 - Confira se os números são iguais.
